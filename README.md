@@ -1,4 +1,4 @@
-# go-school-web
+# school-web-go
 A server that serves all OSU addresses that I can remember. Written in Go
 
 Todo:
